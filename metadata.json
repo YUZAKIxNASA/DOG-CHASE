@@ -1,0 +1,5 @@
+{
+  "name": "DOG CHASE",
+  "description": "Original 2D arcade maze-chase game where a clever dog collects bones and golden coins while outsmarting patrolling humans.",
+  "requestFramePermissions": []
+}

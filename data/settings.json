@@ -1,0 +1,42 @@
+{
+  "resolution_index": 1,
+  "fullscreen": false,
+  "fps_limit": 60,
+  "sound_volume": 0.75,
+  "music_volume": 0.45,
+  "muted": false,
+  "camera_mode": "auto",
+  "camera_zoom": 1.15,
+  "camera_shake": true,
+  "camera_dead_zone": true,
+  "camera_look_ahead": true,
+  "graphics_quality": "high",
+  "key_bindings": {
+    "up": [
+      273,
+      119
+    ],
+    "down": [
+      274,
+      115
+    ],
+    "left": [
+      276,
+      97
+    ],
+    "right": [
+      275,
+      100
+    ],
+    "pause": [
+      27,
+      112
+    ],
+    "full_view": [
+      118
+    ],
+    "mute": [
+      109
+    ]
+  }
+}
